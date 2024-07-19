@@ -1,0 +1,2 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+69.46.7.74,443,443,true,TPA,North America,Tampa,223,7.89
